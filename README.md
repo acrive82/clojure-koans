@@ -91,7 +91,7 @@ You'll see something like this:
     Assertion failed!
     We shall contemplate truth by testing reality, via equality.
     (= __ true)
-
+    
 The output is telling you that you have a failing test in the file named
 `01_equalities.clj`, on line 3. So you need to open that file up and make
 it pass!  You'll always be filling in the blanks to make tests pass.
